@@ -1,0 +1,29 @@
+[05-Oct-2021 04:48:07 UTC] PHP Notice:  Undefined index: amount in /home/rednpjde/firstinlandcu.com/email/debit-alert-mail.php on line 11
+[05-Oct-2021 04:48:07 UTC] PHP Notice:  Undefined index: description in /home/rednpjde/firstinlandcu.com/email/debit-alert-mail.php on line 517
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Undefined index: creditUserDetails in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 10
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 11
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[13-Nov-2021 06:16:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rednpjde/premiumimperial.com/email/credit_user-mail.php on line 14
+[06-Jan-2022 09:10:56 America/New_York] PHP Notice:  Undefined index: amount in /home/newejvml/public_html/email/otp-mail.php on line 12
+[06-Jan-2022 09:11:22 America/New_York] PHP Notice:  Undefined index: amount in /home/newejvml/public_html/email/debit-alert-mail.php on line 11
+[06-Jan-2022 09:11:22 America/New_York] PHP Notice:  Undefined index: description in /home/newejvml/public_html/email/debit-alert-mail.php on line 517
+[06-Jan-2022 09:27:56 America/New_York] PHP Notice:  Undefined index: amount in /home/newejvml/public_html/email/otp-mail.php on line 12
+[06-Jan-2022 09:28:21 America/New_York] PHP Notice:  Undefined index: amount in /home/newejvml/public_html/email/debit-alert-mail.php on line 11
+[06-Jan-2022 09:28:21 America/New_York] PHP Notice:  Undefined index: description in /home/newejvml/public_html/email/debit-alert-mail.php on line 517
+[07-Jan-2022 16:31:23 America/New_York] PHP Notice:  Undefined index: amount in /home/newejvml/public_html/email/otp-mail.php on line 12
+[07-Jan-2022 16:34:10 America/New_York] PHP Notice:  Undefined index: amount in /home/newejvml/public_html/email/debit-alert-mail.php on line 11
+[07-Jan-2022 16:34:10 America/New_York] PHP Notice:  Undefined index: description in /home/newejvml/public_html/email/debit-alert-mail.php on line 517
+[14-Jan-2022 17:33:49 America/New_York] PHP Notice:  Undefined index: recipientDetailsB in /home/newejvml/rednerbank.org/email/wire-otp-mail.php on line 12
+[14-Jan-2022 17:33:49 America/New_York] PHP Notice:  Undefined index: recipientDetailsB in /home/newejvml/rednerbank.org/email/wire-otp-mail.php on line 560
+[14-Jan-2022 17:33:49 America/New_York] PHP Notice:  Undefined index: recipientDetailsB in /home/newejvml/rednerbank.org/email/wire-otp-mail.php on line 565
+[14-Jan-2022 17:33:49 America/New_York] PHP Notice:  Undefined index: recipientDetailsB in /home/newejvml/rednerbank.org/email/wire-debit-alert-mail.php on line 12

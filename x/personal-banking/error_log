@@ -1,0 +1,7 @@
+[03-Aug-2022 11:27:59 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home2/cryptoc/public_html/truist-bank/dashboard/scripts/connect.php on line 8
+[03-Aug-2022 14:38:01 UTC] PHP Notice:  Undefined index: loggedUser in /home2/cryptoc/public_html/truist-bank/dashboard/scripts/userdata.php on line 3
+[03-Aug-2022 14:38:01 UTC] PHP Notice:  Undefined index: loggedUser in /home2/cryptoc/public_html/truist-bank/dashboard/scripts/userdata.php on line 3
+[03-Aug-2022 14:38:02 UTC] PHP Notice:  Undefined index: loggedUser in /home2/cryptoc/public_html/truist-bank/dashboard/scripts/userdata.php on line 3
+[03-Aug-2022 14:38:02 UTC] PHP Notice:  Undefined index: loggedUser in /home2/cryptoc/public_html/truist-bank/dashboard/scripts/userdata.php on line 3
+[03-Aug-2022 14:38:03 UTC] PHP Notice:  Undefined index: loggedUser in /home2/cryptoc/public_html/truist-bank/dashboard/scripts/userdata.php on line 3
+[03-Aug-2022 14:38:04 UTC] PHP Notice:  Undefined index: loggedUser in /home2/cryptoc/public_html/truist-bank/dashboard/scripts/userdata.php on line 3
